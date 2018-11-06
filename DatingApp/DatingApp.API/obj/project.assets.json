@@ -11832,11 +11832,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Saulius\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
+      "projectUniqueName": "C:\\Users\\Saulius\\Documents\\Repositories\\.NET-Core-Course\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
       "projectName": "DatingApp.API",
-      "projectPath": "C:\\Users\\Saulius\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
+      "projectPath": "C:\\Users\\Saulius\\Documents\\Repositories\\.NET-Core-Course\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
       "packagesPath": "C:\\Users\\Saulius\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Saulius\\DatingApp\\DatingApp.API\\obj\\",
+      "outputPath": "C:\\Users\\Saulius\\Documents\\Repositories\\.NET-Core-Course\\DatingApp\\DatingApp.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
