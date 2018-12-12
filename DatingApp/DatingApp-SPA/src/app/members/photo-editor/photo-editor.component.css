@@ -11,3 +11,8 @@ img.img-thumbnail {
 input[type=file] {
     color: transparent;
 }
+
+.marginFix {
+    margin-right: 1px;
+    margin-left: -11px;
+}
