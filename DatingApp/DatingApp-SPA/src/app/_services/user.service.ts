@@ -44,9 +44,8 @@ export class UserService {
       .pipe(
         map(response => {
           paginatedResult.result = response.body;
-          if (response.headers.get('pagination') != null) {
-            // tslint:disable-next-line:semicolon
-            paginatedResult.pagination = JSON.parse(response.headers.get('Pagination'))
+          if (response.headers.get('Pagination') != null) {
+            paginatedResult.pagination = JSON.parse(response.headers.get('Pagination'));
           }
           return paginatedResult;
         })
