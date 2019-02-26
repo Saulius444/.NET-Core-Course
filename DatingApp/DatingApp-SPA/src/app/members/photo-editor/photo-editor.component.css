@@ -16,3 +16,16 @@ input[type=file] {
     margin-right: 1px;
     margin-left: -11px;
 }
+
+.not-approved {
+    opacity: 0.2;
+}
+
+.img-wrapper {
+    position: relative;
+}
+
+.img-text {
+    position: absolute;
+    bottom: 40%;
+}
