@@ -32,9 +32,10 @@ export class HomeComponent implements OnInit {
     const rand2 = this.adjective[Math.floor(Math.random() * this.adjective.length)];
     const rand3 = this.adjectiveTwo[Math.floor(Math.random() * this.adjectiveTwo.length)];
     const rand4 = this.animal[Math.floor(Math.random() * this.animal.length)];
+    const rand5 = this.bodyPart[Math.floor(Math.random() * this.bodyPart.length)];
 
       return 'Your' + ' ' + rand1 + ' ' + 'is more' + ' ' + rand2 + ' '
-        + rand3 + ' ' + 'than a' + ' ' + rand4 + '\'s' + ' ' + rand1 + '.';
+        + rand3 + ' ' + 'than a' + ' ' + rand4 + '\'s' + ' ' + rand5 + '.';
   }
 
   learnMore() {
